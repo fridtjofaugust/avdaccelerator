@@ -9,10 +9,10 @@
             "value": false
         },
         "avdSessionHostLocation": {
-            "value": "eastus2"
+            "value": "westeurope"
         },
         "avdManagementPlaneLocation": {
-            "value": "eastus2"
+            "value": "westeurope"
         },
         "avdDeployMonitoring": {
             "value": false
