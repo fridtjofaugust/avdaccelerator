@@ -6,26 +6,26 @@
             "value": "AVD1"
         },
         "avdWorkloadSubsId": {
-            "value": "<<subscriptionId>>"
+            "value": "951f411f-07b3-44eb-849c-9f9ec1aa7968"
         },
         "avdVmLocalUserName": {
-            "value": "<<localUserName>>"
+            "value": "admin"
         },
         "avdVmLocalUserPassword": {
-            "value": "<<localUserPassword>>"
+            "value": "Vinter2016"
         },
         "identityDomainName": {
             "value": "none"
         },
         "avdDomainJoinUserName": {
-            "value": "<<domainJoinUserName>>"
+            "value": "admin"
         },
         "avdDomainJoinUserPassword": {
-            "value": "<<domainJoinUserPassword>>"
+            "value": "admin"
         },
         "customDnsIps": {
             "value": [
-                "<<customDnsIp>>"
+                ""
             ]
         }
     }
