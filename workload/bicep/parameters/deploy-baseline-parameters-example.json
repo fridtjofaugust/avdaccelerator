@@ -36,10 +36,10 @@
             "value": false
         },            
         "securityPrincipalId": {
-            "value": "9b6dc0c8-2e78-44b4-9e3f-7b60011cacc0"
+            "value": "3b34bf07-7de4-462a-a173-7bc8197444d1"
         },        
         "securityPrincipalName": {
-            "value": "id-storage-we1-dev-use2-001"
+            "value": "id-storage-avd1-dev-euw-001"
         },       
         "identityDomainName": {
             "value": "none"
