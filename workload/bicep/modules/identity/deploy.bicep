@@ -128,8 +128,7 @@ module storageContributorRoleAssign '../../../../carml/1.3.0/Microsoft.Authoriza
   scope: resourceGroup('${subscriptionId}', '${storageObjectsRgName}')
   params: {
     roleDefinitionIdOrName: '/subscriptions/${subscriptionId}/providers/Microsoft.Authorization/roleDefinitions/${storageRoleAssignment.id}'
-    principalId: '9b6dc0c8-2e78-44b4-9e3f-7b60011cacc0'
-    // createStorageDeployment ? managedIdentityStorage.outputs.principalId : ''
+    principalId: createStorageDeployment ? managedIdentityStorage.outputs.principalId : ''
   }
   dependsOn: [
     managedIdentityStorage

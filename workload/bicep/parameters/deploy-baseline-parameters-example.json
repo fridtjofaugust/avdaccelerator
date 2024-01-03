@@ -18,16 +18,16 @@
             "value": false
         },   
         "avdWorkloadSubsId": {
-            "value": "<<subscriptionId>>"
+            "value": "951f411f-07b3-44eb-849c-9f9ec1aa7968"
         },
         "avdEnterpriseAppObjectId": {
             "value": false
         },
         "avdVmLocalUserName": {
-            "value": "<<localUserName>>"
+            "value": "admin"
         },
         "avdVmLocalUserPassword": {
-            "value": "<<localUserPassword>>"
+            "value": "Vinter2016"
         },
         "avdIdentityServiceProvider": {
             "value": "AAD"
@@ -36,10 +36,10 @@
             "value": false
         },            
         "securityPrincipalId": {
-            "value": ""
+            "value": "9b6dc0c8-2e78-44b4-9e3f-7b60011cacc0"
         },        
         "securityPrincipalName": {
-            "value": ""
+            "value": "id-storage-we1-dev-use2-001"
         },       
         "identityDomainName": {
             "value": "none"
