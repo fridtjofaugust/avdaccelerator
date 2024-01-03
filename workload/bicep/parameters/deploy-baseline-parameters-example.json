@@ -30,7 +30,7 @@
             "value": "<<localUserPassword>>"
         },
         "avdIdentityServiceProvider": {
-            "value": "<<IdentityServiceProviderType>>"
+            "value": "AAD"
         },     
         "createIntuneEnrollment": {
             "value": false
