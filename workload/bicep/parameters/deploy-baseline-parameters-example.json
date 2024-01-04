@@ -36,10 +36,10 @@
             "value": false
         },            
         "securityPrincipalId": {
-            "value": "14dd7d5a-7d2c-49c2-8dd5-84a4d700fa42"
+            "value": "9cdead84-a844-4324-93f2-b2e6bb768d07"
         },        
         "securityPrincipalName": {
-            "value": "id-storage-we1-dev-euw-001"
+            "value": "Azure Virtual Desktop"
         },       
         "identityDomainName": {
             "value": "none"
