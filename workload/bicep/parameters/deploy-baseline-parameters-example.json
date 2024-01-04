@@ -18,7 +18,7 @@
             "value": false
         },   
         "avdWorkloadSubsId": {
-            "value": "951f411f-07b3-44eb-849c-9f9ec1aa7968"
+            "value": "c7c9a00c-1c06-4871-8811-b123a4fef645"
         },
         "avdEnterpriseAppObjectId": {
             "value": false
@@ -36,10 +36,10 @@
             "value": false
         },            
         "securityPrincipalId": {
-            "value": "3b34bf07-7de4-462a-a173-7bc8197444d1"
+            "value": "3f16ae9a-220e-4ba4-a585-4c36ab3ea39b"
         },        
         "securityPrincipalName": {
-            "value": "id-storage-avd1-dev-euw-001"
+            "value": "avdaccelerator"
         },       
         "identityDomainName": {
             "value": "none"
