@@ -36,10 +36,10 @@
             "value": false
         },            
         "securityPrincipalId": {
-            "value": "3f16ae9a-220e-4ba4-a585-4c36ab3ea39b"
+            "value": "14dd7d5a-7d2c-49c2-8dd5-84a4d700fa42"
         },        
         "securityPrincipalName": {
-            "value": "avdaccelerator"
+            "value": "id-storage-we1-dev-euw-001"
         },       
         "identityDomainName": {
             "value": "none"
