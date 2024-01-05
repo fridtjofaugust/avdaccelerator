@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define an array of resource group names to be deleted
-declare -a resourceGroups=("rg-avd-dev-euw-monitoring" "rg-avd-avd1-dev-euw-network" "rg-avd-avd1-dev-euw-pool-compute" "rg-avd-avd1-dev-euw-service-objects" "rg-avd-avd1-dev-euw-storage")
+declare -a resourceGroups=("rg-avd-dev-euw-monitoring" "rg-avd-poc-dev-euw-network" "rg-avd-poc-dev-euw-pool-compute" "rg-avd-poc-dev-euw-service-objects" "rg-avd-poc-dev-euw-storage")
 
 # Loop through the array and delete each resource group if it exists
 for rg in "${resourceGroups[@]}"
