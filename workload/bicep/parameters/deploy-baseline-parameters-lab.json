@@ -45,10 +45,10 @@
             "value": "8j8wcn.onmicrosoft.com"
         },
         "avdDomainJoinUserName": {
-            "value": "admintest"
+            "value": ""
         },
         "avdDomainJoinUserPassword": {
-            "value": "Me9uMfPPq2v89k&$52qF"
+            "value": ""
         },
         "avdOuPath": {
             "value": ""
@@ -102,13 +102,13 @@
             "value": ""
         },
         "createPrivateDnsZones": {
-            "value": false
+            "value": true
         },
         "avdVnetPrivateDnsZoneFilesId": {
-            "value": "<<PrivateDnsZoneFilesId>>"
+            "value": ""
         },
         "avdVnetPrivateDnsZoneKeyvaultId": {
-            "value": "<<PrivateDnsZoneKeyvaultId>>"
+            "value": ""
         },
         "vNetworkGatewayOnHub": {
             "value": false
