@@ -18,7 +18,7 @@
             "value": false
         },   
         "avdWorkloadSubsId": {
-            "value": "c7c9a00c-1c06-4871-8811-b123a4fef645"
+            "value": "951f411f-07b3-44eb-849c-9f9ec1aa7968"
         },
         "avdEnterpriseAppObjectId": {
             "value": "9ea65ef5-5cb9-450b-8acd-ff20f4aa19be"
@@ -42,10 +42,10 @@
             "value": ""
         },       
         "identityDomainName": {
-            "value": "none"
+            "value": "bicepdomain"
         },
         "avdDomainJoinUserName": {
-            "value": "none"
+            "value": "admin"
         },
         "avdDomainJoinUserPassword": {
             "value": "none"
